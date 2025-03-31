@@ -1,0 +1,11 @@
+string	int[]	string
+name	value	description by
+类型	数值	备注 
+block_size	3|5|7	加载草块数量
+use_lod	1|1|1	是否使用LOD
+cam_diff	4|4|4	移动刷新距离
+r_lod0	0|0|0	LOD0范围
+r_lod1	0|0|0	LOD1范围
+r_lod2	0|0|00	LOD2范围
+r_role	1	角色的影响半径
+r_car	4	车辆的影响半径
